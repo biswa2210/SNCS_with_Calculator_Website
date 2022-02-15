@@ -1,0 +1,32 @@
+<html>
+<head>
+<script>
+function reverse()
+{
+var no,rem,sum;
+sum=Number(document.getElementById("no_input").value)
+rem=Number(document.getElementById("no_input").value);
+no=Number(document.getElementById("no_input").value);
+while(no!=0)
+{
+rem=no%10;
+sum=rem+sum;
+no=no/10;
+}
+if(sum==no)
+{
+alert("it is a palindrome number boss");
+}
+else
+{
+alert("it is a palindrome number boss");
+}
+}
+</script>
+</head>
+<body BGCOLOR="BLACK">
+<FONT SIZE=30 COLOR="RED">ENTER ANY NO(INTEGER):</FONT>
+<input id="no_input" size=40></input>
+<p align="left"><button onclick="reverse()">Click me</button></p>
+</body>
+</HTML>

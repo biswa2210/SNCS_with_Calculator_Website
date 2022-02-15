@@ -1,0 +1,24 @@
+<HTML>
+<HEAD>
+<script>
+function auto()
+{
+var no;
+no=Number(document.getElementById("no_input").value);
+if((no*no)%10==no)
+ {
+alert("BISWA SAY IT IS A AUTOPOLYMORPHIC NO");
+ }
+else
+    {
+alert("BISWA SAY IT IS NOT A AUTOPOLYMORPHIC NO");
+    }
+}
+</script>
+</head>
+<body BGCOLOR="BLACK">
+<FONT SIZE=30 COLOR="RED">ENTER ANY NO(INTEGER):</FONT>
+<input id="no_input" size=40></input>
+<p align="left"><button onclick="auto()">Click me</button></p>
+</body>
+</HTML>
