@@ -60,10 +60,14 @@ I have made this website using html. I have implemented logics for evenodd, pali
 
 <div align="center">
      
-<a href="n1.PNG"><img src="n1.PNG" width="400" height= "300"></a> <a href="n2.PNG"><img src="ori2.PNG" width="400" height= "300"></a>
+<a href="pics/n1.png"><img src="pics/n1.png" width="400" height= "300"></a> <a href="pics/n2.png"><img src="pics/n2.png" width="400" height= "300"></a>
 
-<a href="n3.PNG"><img src="n3.PNG" width="400" height= "300"></a> <a href="n4.PNG"><img src="ori4.PNG" width="400" height= "300"></a>
-
+<a href="pics/n3.png"><img src="pics/n3.png" width="400" height= "300"></a> <a href="pics/n4.png"><img src="pics/n4.png" width="400" height= "300"></a>
+ 
+<a href="pics/n5.png"><img src="pics/n5.png" width="400" height= "300"></a> <a href="pics/n6.png"><img src="pics/n6.png" width="400" height= "300"></a>
+ 
+<a href="pics/n7.png"><img src="pics/n7.png" width="400" height= "300"></a> <a href="pics/n8.png"><img src="pics/n8.png" width="400" height= "300"></a>
+ 
 </div>
 
 
