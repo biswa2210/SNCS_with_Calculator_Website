@@ -1,4 +1,4 @@
-# SNCS-WITH-CALCULATOR-WEBSITE :star_struck: :family: :man: :woman: :sunny:
+# SNCS-WITH-CALCULATOR-WEBSITE :star_struck:
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) 
 
@@ -16,24 +16,23 @@
 
 ## About :point_down: 
 
-
+This is a simple website named 'SNCS with Calculator Website' is created using html. I have done various number checking like palindrome, evenodd, automorphic etc. I have created a calculator using html. This website can be used for number checking and also for calculation.
 
 ## LINK of full project: :point_right: . 
 
 ## Purpose :point_down:
 
 <div align="justified">
-     
+
+I have made this wesbite to practice html and implemention of logics using it. 
 
 </div>
-
-## Use :point_down:
-
 
 ## Importance :point_down:
 
 <div align="justified">
-     
+ 
+This website can be used for number checking and also for calculation.
 
 </div>
 
@@ -41,34 +40,30 @@
 
 ```bash
 SNCS-WITH-CALCULATOR
-     ├── HOME2.html
-     ├── LOK.html
-     ├── REGI.html
-     ├── SANK.html
-     ├── def1.html
-     ├── def2.html
-     ├── def3.html
-     ├── dev.html
+     ├── autopoly.html
+     ├── autopoly2.html
+     ├── default.html
+     ├── evenodd.html
+     ├── frame1.html
+     ├── frame2.html
+     ├── frame3.html
      ├── index.html
-     ├── link.html
-     ├── mainpage.html
-     ├── sank.html
-     ├── rath.html
-     ├── orri.html
-     └── Lok.html
+     ├── input.html
+     ├── output.html
+     └── palindrome.html  .html
  ```               
 ## Making :point_down:
 
-
+I have made this website using html. I have implemented logics for evenodd, palindrome, automorphic number checking and calculation.
 
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="ori1.PNG"><img src="ori1.PNG" width="400" height= "300"></a> <a href="ori2.PNG"><img src="ori2.PNG" width="400" height= "300"></a>
+     
+<a href="n1.PNG"><img src="n1.PNG" width="400" height= "300"></a> <a href="n2.PNG"><img src="ori2.PNG" width="400" height= "300"></a>
 
-<a href="ori3.PNG"><img src="ori3.PNG" width="400" height= "300"></a> <a href="ori4.PNG"><img src="ori4.PNG" width="400" height= "300"></a>
+<a href="n3.PNG"><img src="n3.PNG" width="400" height= "300"></a> <a href="n4.PNG"><img src="ori4.PNG" width="400" height= "300"></a>
 
-<a href="ori5.PNG"><img src="ori5.PNG" width="800" height= "300"></a>
 </div>
 
 
