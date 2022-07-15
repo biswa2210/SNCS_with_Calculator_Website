@@ -18,7 +18,11 @@
 
 This is a simple website named 'SNCS with Calculator Website' is created using html. I have done various number checking like palindrome, evenodd, automorphic etc. I have created a calculator using html. This website can be used for number checking and also for calculation.
 
-## LINK of full project: :point_right: . 
+## SNCS with Calculator DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=rh-9oCZCW70&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5&index=12">Click here to watch</a>
+
+## WEB DEV PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5">Click here to watch</a>
+
+## LINK of full project: :point_right: https://biswa2210.github.io/SNCS_with_Calculator_Website/. 
 
 ## Purpose :point_down:
 
